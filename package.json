@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/LzrCampos/redis-express-example#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "redis": "^2.8.0"
   },
